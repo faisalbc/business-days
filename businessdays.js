@@ -1,4 +1,4 @@
-// Here we just store all needed DOM elements
+// Here I just store all needed DOM elements
 let dom = {
   startDate: document.getElementById('start-date-input'),
   endDate: document.getElementById('end-date-input'),
